@@ -1,2 +1,46 @@
-# 891a9402-etsy-seller-tools-quiz-and-tra
-The etsy seller tool you'd build yourself — if you had the time.  24/7 operation — runs on your server or scales to any hosting platform. Multi-server support with per-server configuration and permission levels.  ## What's Included  - Etsy Seller Tools Quiz And Training — fully configured and ready to use - Slash command interface for all major fun
+# Etsy Seller Tools Quiz and Training Discord Bot
+
+> Bot for Etsy Seller
+
+The etsy seller tool you'd build yourself — if you had the time.
+
+24/7 operation — runs on your server or scales to any hosting platform. Multi-server support with per-server configuration and permission levels.
+
+## What's Included
+
+- Etsy Seller Tools Quiz And Training — fully configured and ready to use
+- Slash command interface for all major...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | ✅ | ✅ |
+| Standard responses | ✅ | ✅ |
+| Community access | ✅ | ✅ |
+| Custom commands | ❌ | ✅ |
+| Analytics dashboard | ❌ | ✅ |
+| Priority processing | ❌ | ✅ |
+| API webhooks | ❌ | ✅ |
+| Unlimited servers | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/cNi7sLdPp8Is1de5bucZJ2R)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
